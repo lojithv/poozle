@@ -1,0 +1,4 @@
+app = "poozle-test"
+
+[build]
+  dockerfile = "/engine-server/Dockerfile"
